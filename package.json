@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/stariel/06-tcp-server/issues"
   },
-  "homepage": "https://github.com/stariel/06-tcp-server#readme"
+  "homepage": "https://github.com/stariel/06-tcp-server#readme",
+  "dependencies": {
+    "net": "^1.0.2",
+    "uuid": "^3.2.1"
+  }
 }
