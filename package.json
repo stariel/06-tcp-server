@@ -1,0 +1,25 @@
+{
+  "name": "06-tcp-server",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 06: TCP Chat Server ======",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stariel/06-tcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stariel/06-tcp-server/issues"
+  },
+  "homepage": "https://github.com/stariel/06-tcp-server#readme",
+  "dependencies": {
+    "net": "^1.0.2",
+    "uuid": "^3.2.1"
+  }
+}
